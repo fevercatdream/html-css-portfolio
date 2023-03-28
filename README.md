@@ -40,7 +40,9 @@ Showcase my projects.
 ## Credits
 
 Tutor: Doug Kumagai:
+<br />
 https://www.linkedin.com/in/doug-kumagai/
+<br />
 https://github.com/ndesmic
 
 Color Palette Generator: https://coolors.co/
