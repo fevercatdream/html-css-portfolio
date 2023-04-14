@@ -14,6 +14,9 @@ N/A
 
 Showcase my projects.
 
+### Deployed Site
+https://fevercatdream.github.io/professional-portfolio/
+
 <br />
 
 ### Wireframe
@@ -44,6 +47,7 @@ Tutor: Doug Kumagai:
 https://www.linkedin.com/in/doug-kumagai/
 <br />
 https://github.com/ndesmic
+<br />
 
 Color Palette Generator: https://coolors.co/
 
@@ -52,6 +56,8 @@ mdn web docs: https://developer.mozilla.org/en-US/
 A Complete Guide to Flexbox: https://css-tricks.com/snippets/css/a-guide-to-flexbox/#top-of-site
 
 css-to-desaturate-background-image: https://stackoverflow.com/questions/27572728/css-to-desaturate-background-image-only-with-other-images-in-div-stay-saturated
+
+Freepik: https://www.freepik.com/
 
 
 ## License
