@@ -63,3 +63,9 @@ Freepik: https://www.freepik.com/
 ## License
 
 Please refer to the LICENSE in the repo.
+
+---
+
+## Badges
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
