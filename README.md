@@ -2,7 +2,7 @@
 
 ## Description
 
-A portfolio to showcase my projects and skills that I cultivate during the UW Coding Bootcamp. I use a wireframe to plan out my website design. Currently this shows my use of HTML and CSS to create the framework of a webpage. I have a strong interest in front-end design. This represents 20+ hours of work pushing the boundaries of my knowledge to attempt more advanced CSS styling to create an aesthetic and responsive website.
+A html & css portfolio.
 
 
 ## Installation
@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-Showcase my projects.
+Deploy a static html & css website.
 
 ### Deployed Site
 https://fevercatdream.github.io/professional-portfolio/
